@@ -9,7 +9,7 @@
 * @author Abenezer Anglo, abeang-2
 */
 
-class Main {
+class EGolfChargingEstimator {
   public static void main(String[] args) {
 
      // Declare variables
